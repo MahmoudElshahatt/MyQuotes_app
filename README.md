@@ -2,7 +2,6 @@
 # Description
 
 The app shows a list of quotes from an API, you can copy one of them, you can set a reminder to push a local notification with different quote everyday.
-</br>
 
 # Screenshots
 
