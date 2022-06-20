@@ -6,9 +6,9 @@ The app shows a list of quotes from an API, you can copy one of them, you can se
 
 # Screenshots
 
-<img src="https://user-images.githubusercontent.com/79477855/148279722-3024e450-db90-4fb6-a22d-14b125f1a67d.jpg" width="350" height="700"> <img src="https://user-images.githubusercontent.com/79477855/148279585-2f897cb9-6511-440f-ba3e-70cccca1e38f.jpg" width="350" height="700">
+<img src="https://user-images.githubusercontent.com/79477855/174604497-6c6e25dd-24b4-452d-acc7-319213a51306.jpg" width="350" height="700"> <img src="https://user-images.githubusercontent.com/79477855/174604503-a8cab053-b621-41b8-99a7-1008e1f05b38.jpg" width="350" height="700">
 
-<img src="https://user-images.githubusercontent.com/79477855/148280306-975f391b-35bf-4a37-b5bd-fa98a2f41e4f.jpg" width="350" height="700"> <img src="https://user-images.githubusercontent.com/79477855/148280186-851b15cc-41da-42d6-a938-f8b40d0fe515.jpg" width="350" height="700">
+<img src="(https://user-images.githubusercontent.com/79477855/174605062-9e8a735a-3227-4b8d-83e0-33052f8474c0.jpg" width="350" height="700"> <img src="https://user-images.githubusercontent.com/79477855/174605067-74d15c20-33b0-4fef-8997-e07c2e6e49f3.jpg" width="350" height="700">
 
 # Tech stack
 * **Retrofit - A type-safe HTTP client for Android and Java**.
